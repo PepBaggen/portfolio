@@ -266,9 +266,9 @@
             <br><br> Als je haar een cadeau wilt geven, zij wilt graag een antieke stationsbank voor in de tuin. Een kleine bijdrage is daarvoor heel welkom. Een bijdrage kan met het ronde icoontje hieronder.
             <br>Namens Pepijn en Mieke (paranimfen)
         </h4>
-            <a href="https://tikkie.me/pay/e684qvqcko6vili6aoep" target="_blank">
+            <a href="https://tikkie.me/pay/jbh1ffbe3a5uikr2o8bm" target="_blank">
                 <div class="payment-icon">
-                    <a href="https://tikkie.me/pay/e684qvqcko6vili6aoep" target="_blank">
+                    <a href="https://tikkie.me/pay/jbh1ffbe3a5uikr2o8bm" target="_blank">
                         <div class="coin"></div>
                     </a>
                 </div>   </a>
